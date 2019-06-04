@@ -1,6 +1,8 @@
 # IDE
 .vscode/
-
+.DS_Store
+.idea/
+.idea/*
 # Data directories
 checkpoints/
 corpus/
